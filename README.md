@@ -28,4 +28,3 @@ Under the Attributes Description, kindly ignore the Vehicle Attrs, only refer to
 
 #### Results given 0.90961 accuracy for test data set
 
-"# Accident-Severity-Kaggle-challenge-" 
